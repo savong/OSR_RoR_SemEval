@@ -1,6 +1,16 @@
 # OSR_RoR_SemEval
 Ontology-style relation annotation datasets: Japanese traffic rules of the road and SemEval-2010 Task 8
 
+## Institutions
+Toyota Technological Institute
+
+## Categories
+Annotation, Ontology, Feature Extraction, Nominal Data Analysis, Traffic Safety
+
+## Cite this dataset
+Bou, Savong; Miwa, Makoto; Sasaki, Yutaka (2022), “Ontology-style relation annotation datasets: Japanese traffic rules of the road and SemEval-2010 Task 8”, Mendeley Data, v1
+http://dx.doi.org/10.17632/nvmsbtpn2h.1
+
 ## Description of this data
 
 Each dataset is in two different formats: (1) Conventional annotation (Normal-RoR stands for the Japanese traffic Rules of the Road) and (2) Ontology-Style Relation (OSR) annotation (OSR-RoR stands for Normal-RoR in OSR format, and OSR-SemEval stands for SemEval-2010 Task 8 in OSR format). 
